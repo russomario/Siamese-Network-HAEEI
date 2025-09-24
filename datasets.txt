@@ -1,2 +1,0 @@
-package fomo https://universe.roboflow.com/models/object-detection
-face fomo https://www.kaggle.com/datasets/iamprateek/wider-face-a-face-detection-dataset
